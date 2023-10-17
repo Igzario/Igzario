@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, my name is Vladimir 👋
+My name is Vladimir 👋
 I am a java developer from Moscow. I specialize in REST web services using Java and Spring Boot.
 
 
